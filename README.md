@@ -38,7 +38,8 @@ This repo remains part of my growth journey and represents how I started with fr
 
 ## 📸 Preview
 
-*(Insert screenshots or a GIF of the site here)*  
+<img src="https://github.com/your-username/your-repo/blob/main/screenshot.png?raw=true" alt="Project Screenshot">
+
 
 ---
 
