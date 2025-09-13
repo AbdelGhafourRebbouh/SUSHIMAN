@@ -35,7 +35,7 @@ This repo remains part of my growth journey and represents how I started with fr
 
 ## 🚀 Live Demo
 
-[View Sushiman Website](https://abdelghafourrebbouh.github.io/Leon/)  
+[View Sushiman Website](https://abdelghafourrebbouh.github.io/SUSHIMAN/)  
 
 ---
 
