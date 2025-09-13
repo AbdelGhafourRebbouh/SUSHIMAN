@@ -1,7 +1,4 @@
-
-      <img src="https://github.com/adrianhajdin/project_html_css_website/assets/151519281/562e0f27-4b93-41cb-a63d-7c50940fc0ad" alt="Project Banner">
-   
-# 🍣 Sushiman
+<h1># 🍣 Sushiman </h1>
 
 A modern and responsive landing page for **Sushiman**, a sushi-themed restaurant website.  
 This project was built as part of following an online tutorial (*Creating a Sushi-Themed Website: HTML & CSS Guide* on YouTube).  
@@ -33,13 +30,6 @@ It allowed me to practice **semantic HTML**, responsive layouts, and consistent 
 
 Now, I’m focused on **backend development with .NET (C#)** to become a **desktop developer**, while also keeping my **C++** experience strong.  
 This repo remains part of my growth journey and represents how I started with front-end practice projects.  
-
----
-
-## 📸 Preview
-
-<img src="https://github.com/your-username/your-repo/blob/main/screenshot.png?raw=true" alt="Project Screenshot">
-
 
 ---
 
